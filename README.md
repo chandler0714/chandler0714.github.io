@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+﻿## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/chandler0714/chandler0714.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+LispGentleIntro
+===============
+
+Lisp-符号计算入门指引翻译
+
+<a href="http://cncounter.duapp.com/">天朝计数器</a>
 
 ### Markdown
 
